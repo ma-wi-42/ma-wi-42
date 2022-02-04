@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ma-wi-42
-- 👀 I’m interested in everything frontend
+- 🍉 I’m a frontend developer with a love for good UX/UI design
 
 <!---
 ma-wi-42/ma-wi-42 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
